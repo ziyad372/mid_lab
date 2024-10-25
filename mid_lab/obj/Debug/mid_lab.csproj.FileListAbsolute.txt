@@ -1,0 +1,7 @@
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\bin\Debug\mid_lab.exe.config
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\bin\Debug\mid_lab.exe
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\bin\Debug\mid_lab.pdb
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\obj\Debug\mid_lab.csproj.AssemblyReference.cache
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\obj\Debug\mid_lab.csproj.CoreCompileInputs.cache
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\obj\Debug\mid_lab.exe
+D:\visual studio projects\CC Lab\mid_lab\mid_lab\obj\Debug\mid_lab.pdb

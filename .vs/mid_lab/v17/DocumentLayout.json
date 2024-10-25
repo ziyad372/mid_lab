@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual studio projects\\CC Lab\\mid_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|d:\\visual studio projects\\cc lab\\mid_lab\\mid_lab\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|solutionrelative:mid_lab\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|solutionrelative:mid_lab\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174E7DCF-CB51-4146-B8C9-37412C42E2DD}|mid_lab\\mid_lab.csproj|solutionrelative:mid_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "question2.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\question2.cs",
+              "RelativeDocumentMoniker": "mid_lab\\question2.cs",
+              "ToolTip": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\question2.cs",
+              "RelativeToolTip": "mid_lab\\question2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:28:38.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "question3.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\question3.cs",
+              "RelativeDocumentMoniker": "mid_lab\\question3.cs",
+              "ToolTip": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\question3.cs",
+              "RelativeToolTip": "mid_lab\\question3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:40:03.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\Program.cs",
+              "RelativeDocumentMoniker": "mid_lab\\Program.cs",
+              "ToolTip": "D:\\visual studio projects\\CC Lab\\mid_lab\\mid_lab\\Program.cs",
+              "RelativeToolTip": "mid_lab\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:04:13.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
